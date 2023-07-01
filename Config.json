@@ -1,0 +1,11 @@
+{
+    "hobbit_fill_team": true,
+    "full_hobbit_team_chance": 100,
+    "budget": 10000,
+    "max_unit": 7,
+    "teams_created": 10,
+    "difficulty": 1,
+    "width": 385,
+    "height": 271,
+    "application_mode": "dark"
+}

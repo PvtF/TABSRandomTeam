@@ -1,0 +1,71 @@
+﻿Index,Name,Faction,Cost,Hitpoints,Ranking
+1,Clubber,Tribal,70,80,1
+2,Protector,Tribal,80,77,2
+3,Spear Thrower,Tribal,120,50,3
+4,Stoner,Tribal,160,50,2
+5,Bone  Mage,Tribal,300,100,3
+6,Chieftain,Tribal,400,265,3
+7,Mammoth,Tribal,2200,2500,3
+8,Halfling,Farmer,50,120,3
+9,Farmer,Farmer,80,60,3
+10,Hay Baler,Farmer,140,80,3
+11,Potion Seller,Farmer,340,60,3
+12,Harvester,Farmer,500,595,3
+13,Wheelbarrow,Farmer,1000,1965,3
+14,Scarecrow,Farmer,1200,115,4
+15,Bard,Medieval,60,60,1
+16,Squire,Medieval,100,130,2
+17,Archer,Medieval,140,40,3
+18,Healer,Medieval,180,25,2
+19,Knight,Medieval,650,610,3
+20,Catapult,Medieval,1000,325,3
+21,The King,Medieval,1500,2377,4
+22,Shield Bearer,Ancient,100,60,3
+23,Sarissa,Ancient,120,40,3
+24,Hoplite,Ancient,180,100,3
+25,Snake Archer,Ancient,300,50,3
+26,Ballista,Ancient,900,300,4
+27,Minotaur,Ancient,1600,1656,3
+28,Zeus,Ancient,2000,1125,4
+29,Headbutter,Viking,90,55,2
+30,Ice Archer,Viking,160,50,3
+31,Brawler,Viking,220,192,3
+32,Berserker,Viking,250,110,4
+33,Valkyrie,Viking,500,150,3
+34,Longship,Viking,1000,1850,2
+35,Jarl,Viking,1500,1109,4
+36,Samurai,Dynasty,140,120,3
+37,Firework Archer,Dynasty,180,50,4
+38,Monk,Dynasty,250,648,3
+39,Ninja,Dynasty,500,150,3
+40,Dragon,Dynasty,1000,1500,3
+41,Hwacha,Dynasty,1500,200,4
+42,Monkey King,Dynasty,2000,529,3
+43,Painter,Renaissance,50,60,2
+44,Fencer,Renaissance,150,70,3
+45,Balloon Archer,Renaissance,200,80,3
+46,Musketeer,Renaissance,250,80,3
+47,Halberd,Renaissance,400,461,3
+48,Jouster,Renaissance,1000,848,3
+49,Ronaldo Da Vinci Tank,Renaissance,4000,5500,4
+50,Flintlock,Pirate,100,50,2
+51,Blunderbuss,Pirate,160,200,3
+52,Bomb Thrower,Pirate,250,150,3
+53,Harpooner,Pirate,300,270,3
+54,Cannon,Pirate,1000,500,3
+55,Captain,Pirate,1500,1165,3
+56,Pirate Queen,Pirate,2500,2940,4
+57,Skeleton Warrior,Spooky,80,50,2
+58,Skeleton Archer,Spooky,180,52,3
+59,Candlehead,Spooky,200,50,2
+60,Vampire,Spooky,200,240,3
+61,Pumpkin Catapult,Spooky,1000,300,2
+62,Swordcaster,Spooky,1000,200,4
+63,Reaper,Spooky,2500,1323,4
+64,Dynamite Thrower,Wild West,100,50,1
+65,Miner,Wild West,200,218,1
+66,Cactus,Wild West,400,432,2
+67,Gunslinger,Wild West,650,50,3
+68,Lasso,Wild West,740,710,1
+69,Deadeye,Wild West,900,75,3
+70,Quickdraw,Wild West,1200,110,3
